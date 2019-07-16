@@ -1,9 +1,9 @@
 # InteractivePythonTimer
 
 This timer was developed to:
-  -Allow the client to change and stop timers as needed during their manufacturing process.
-  -Give the Client a GUI that would allow them to change the timer times as needed.
-  -Show the employees what stage they are on by using LED's.
+  1.Allow the client to change and stop timers as needed during their manufacturing process.
+  2.Give the Client a GUI that would allow them to change the timer times as needed.
+  3.Show the employees what stage they are on by using LED's.
 
 This Timer will have 3 main components to it:
   1. Use JSON to store times for each of the 10 Stages.
